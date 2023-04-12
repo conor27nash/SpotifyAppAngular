@@ -1,0 +1,18 @@
+h1 {
+    background-color: #77b1ad;
+    border: 3px solid #322831;
+    border-radius: 20px;
+    color: aliceblue;
+}
+.card {
+    background: transparent;
+    margin: 5% 10%;
+    outline: transparent;
+    border: transparent;
+    text-align: justify;
+    text-align: center;
+}
+img {
+    border-color: #322831;
+    border-radius: 20px;
+}
