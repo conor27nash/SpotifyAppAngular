@@ -4,15 +4,15 @@ h1 {
     border-radius: 20px;
     color: aliceblue;
 }
-.card {
-    background: transparent;
-    margin: 5% 10%;
-    outline: transparent;
-    border: transparent;
-    text-align: justify;
-    text-align: center;
+
+main
+{
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;   
+    vertical-align: top;
 }
-img {
-    border-color: #322831;
-    border-radius: 20px;
-}
+

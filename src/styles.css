@@ -1,4 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+
 .tab {
     border: 3px solid #21272d;
     background-color: #f9f1f1;
@@ -9,24 +10,31 @@
     -webkit-transition: all 150ms ease-in-out;
     transition: all 150ms ease-in-out;
 }
+
 .tab:hover {
     box-shadow: 0 0 10px 0 #f85f68 inset, 0 0 10px 4px #f85f68;
 }
+
 .sides {
     background-color: #dfdfde;
 }
+
 div {
     height: 100%;
 }
+
 main {
     text-align: center;
-    padding: 1em;
-    max-width: 240px;
-    margin: 0 auto;
+    background-color: #dfdfde;
+    vertical-align: top;
+    
 }
+
 h1 {
-    color: #ff3e00;
-    text-transform: uppercase;
-    font-size: 4em;
-    font-weight: 100;
+    text-align: center;
+    background-color: #77b1ad;
+    border: 3px solid #322831;
+    border-radius: 20px;
+    padding: 0.25em;
+    color: aliceblue;
 }

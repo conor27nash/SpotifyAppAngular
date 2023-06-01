@@ -1,0 +1,19 @@
+.card {
+    background: transparent;
+    margin: 5% 10%;
+    outline: transparent;
+    border: transparent;
+    text-align: justify;
+    text-align: center;
+}
+img {
+    border-color: #322831;
+    border-radius: 20px;
+}
+main
+{
+    vertical-align: top;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
